@@ -60,6 +60,7 @@ border-bottom: 1px solid #e7e9fc;
 .header-container {
 display: flex;
 align-items: center;
+justify-content: space-between;
 }
 
 .header-menu {
@@ -86,12 +87,6 @@ margin-right: 76px
 }
 
 .logo-name-stu {
-font-family: "Raleway", sans-serif;
-font-weight: 700;
-font-size: 18px;
-line-height: 1.16;
-letter-spacing: 0.03em;
-text-transform: uppercase;
 color: #2e2f42; 
 }
 
@@ -104,16 +99,12 @@ color: #404bbf;
 display: flex;
 align-items: center;
 gap: 40px;
-
-padding-top: 24px;
-padding-bottom: 24px;
 }
 
 .header-item {
-  display: flex;
+display: block;
 color: #2e2f42;
 padding: 24px 0;
-margin-right: 40px;
 }
 
 .header-item:hover,
@@ -160,6 +151,7 @@ line-height: 1.07;
 letter-spacing: 0.02em;
 color: #fff;
 
+margin: 0 auto 48px;
 max-width: 496px;
 margin: 0 auto;
 }
@@ -285,13 +277,7 @@ text-align: center;
 }
 
 .name-worker {
-display: flex;
-text-align: center;
-
 padding: 32px 0;
-align-items: center;
-justify-content: center;
-flex-direction: column;
 }
 
 .team-page-last {
@@ -307,13 +293,11 @@ line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2e2f42;
 
-display: flex;
 text-align: center;
 margin-bottom: 8px;
 }
 
 .team-page-work {
-display: flex;
 text-align: center;
   
 font-weight: 400;
@@ -326,8 +310,6 @@ color: #434455;
 
 /* section-4 Our Portfolio */
 .portfolio-main {
-margin-bottom: 72px;
-  
 display: flex;
 padding: 120px 0 120px 0;
 }
@@ -395,7 +377,6 @@ margin-bottom: 16px;
 }
 
 .footer-container {
-width: 264px;
 text-align: left;
 }
 
@@ -417,16 +398,6 @@ color: #4d5ae5;
 }
 
 .footer-name-stu {
-display: inline-block; 
-margin-bottom: 16px;
-  text-align: left;
-  
-font-family: "Raleway", sans-serif;
-font-weight: 700;
-font-size: 18px;
-line-height: 1.16;
-letter-spacing: 0.03em;
-text-transform: uppercase;
 color: #f4f4fd;
 }
 
@@ -436,4 +407,5 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #f4f4fd;
+  width: 264px;
 }
