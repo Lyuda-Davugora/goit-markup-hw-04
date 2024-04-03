@@ -225,7 +225,11 @@ background-image: linear-gradient(rgba(46, 47, 66, 0.7),
   max-width: 1128px;
   wight: 100%;
   flex-shrink: 0;
+}
 
+.icon-icon-feature {
+border-radius: 2px;
+margin-bottom: 8px;
 }
 
 .feature-subtitle {
@@ -243,11 +247,6 @@ background-image: linear-gradient(rgba(46, 47, 66, 0.7),
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-}
-
-.icon-icon-feature {
-border-radius: 2px;
-margin-bottom: 8px;
 }
 
 /* section-3 Our Team*/
