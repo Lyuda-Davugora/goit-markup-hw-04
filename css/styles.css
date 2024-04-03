@@ -316,6 +316,8 @@ background-image: linear-gradient(rgba(46, 47, 66, 0.7),
 
 .icon-icon-team {
 gap: 24px;
+padding-left: 16px;
+padding-right: 16px;
 }
 
 
