@@ -265,8 +265,6 @@ background-color: #f4f4fd;
 }
 
 .icon-icon-feature {
-border-radius: 2px;
-margin-bottom: 8px;
 }
 
 .feature-subtitle {
@@ -275,8 +273,6 @@ margin-bottom: 8px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
-
-  margin-bottom: 8px;
 }
 
 .feature-item-title {
