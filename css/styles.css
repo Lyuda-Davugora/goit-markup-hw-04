@@ -112,6 +112,13 @@ img {
   color: #404bbf;
 }
 
+.item-studio:hover
+.item-studio:active {
+  color: #404BBF;
+  background: #404bbf;
+  border-radius: 2px;
+}
+
 .header-address-menu {
   display: flex;
   align-items: center;
