@@ -161,6 +161,8 @@ background-image: linear-gradient(rgba(46, 47, 66, 0.7),
   margin: 0 auto 48px;
   max-width: 496px;
   margin: 0 auto;
+
+  margin-bottom: 48px;
 }
 
 .page-button {
