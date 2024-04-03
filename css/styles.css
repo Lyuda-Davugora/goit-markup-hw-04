@@ -484,6 +484,13 @@ display: inline-block;
 
 .footer-container {
   text-align: left;
+  display: flex; 
+  align-items: baseline;
+}
+
+.footer-container-one {
+margin-right: 120px;
+
 }
 
 .footer-logo {
@@ -554,5 +561,5 @@ padding-bottom: 16px;
 
 .icon-link:hover,
 .icon-link:focus {
-  background-color: aquamarine;
+  background-color: #31D0AA;
 }
