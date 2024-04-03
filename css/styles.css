@@ -314,13 +314,18 @@ background-image: linear-gradient(rgba(46, 47, 66, 0.7),
   color: #434455;
 }
 
-.icon-icon-team {
-gap: 24px;
-margin-top: 8px;
-margin-left: 16px;
-margin-right: 16px;
+.icon-list-team {
+  display: flex;
+  gap: 24px;
+
+  margin-top: 8px;
+  margin-left: 16px;
+  margin-right: 16px;
 }
 
+.icon-icon-team {
+fill: #f4f4fd;
+}
 
 /* section-4 Our Portfolio */
 .portfolio-main {
