@@ -490,7 +490,6 @@ display: inline-block;
 
 .footer-container-one {
 margin-right: 120px;
-
 }
 
 .footer-logo {
@@ -523,6 +522,10 @@ margin-right: 120px;
   width: 264px;
 }
 
+.footer-container-two {
+
+}
+
 .social-mane {
 font-weight: 500;
 font-size: 16px;
@@ -530,9 +533,9 @@ font-size: 16px;
 line-height: 24px; 
 line-height: 1.5;
 letter-spacing: 0.02em;
-color: #fff;
-
-padding-bottom: 16px;
+color: #FFFFFF;
+  
+margin-bottom: 16px; 
 }
 
 .icon-list {
