@@ -154,14 +154,14 @@ border-radius: 2px;
   color: #404bbf;
 }
 
-.address-one,
-.address-two {
+.address-one {
 transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .address-two {
 display: flex;
 margin-right: 0;
+transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 /* main */
