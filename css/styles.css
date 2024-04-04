@@ -431,7 +431,8 @@ color: #f4f4fd;
 }
 
 .portfolio-names-two {
-padding-top: 32px;
+ padding-top: 32px;
+padding-left: 16px;
 }
 
 .portfolio-title {
@@ -440,6 +441,7 @@ font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2e2f42;
+padding-bottom: 8px;
 }
 
 .portfolio-work {
