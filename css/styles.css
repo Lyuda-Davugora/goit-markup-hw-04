@@ -432,9 +432,9 @@ top: 0;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-color: #f4f4fd;
 padding: 40px 32px;
-
+  
+color: #f4f4fd;
 background-color: #4d5ae5;
 height: 100%;
 width: 100%;
@@ -448,7 +448,8 @@ background-color: #4d5ae5;
 color: #f4f4fd;
 }
 
-.portfolio-photo:hover, .photo-text {
+.portfolio-photo:hover, 
+.photo-text {
 transform: translateY(0%);
 }
 
