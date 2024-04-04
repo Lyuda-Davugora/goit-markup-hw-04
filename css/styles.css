@@ -423,8 +423,7 @@ position: relative;
 overflow: hidden; 
 }
 
-.portfolio-names:hover,
-.portfolio-names:focus {
+.portfolio-photo {
 transform: translateY(0%);
 }
 
