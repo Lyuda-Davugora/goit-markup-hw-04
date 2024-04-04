@@ -423,6 +423,10 @@ position: relative;
 overflow: hidden;
 }
 
+portfolio-photo:hover {
+transform: translateY(0%);
+}
+
 .photo-text {
 position: absolute;
 top: 0;
