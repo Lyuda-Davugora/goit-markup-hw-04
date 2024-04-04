@@ -221,12 +221,11 @@ background-image: linear-gradient(rgba(46, 47, 66, 0.7),
 
 /* section-2 */
 .feature {
-  display: flex;
   padding: 120px 0;
 }
 
 .feature-item {
-  width: calc((100% - 72px) / 4);
+width: calc((100% - 72px) / 4);
 }
 
 .feature-one {
@@ -257,29 +256,26 @@ background-color: #f4f4fd;
 }
 
 .feature-list {
-  display: flex;
-  gap: 24px;
-  max-width: 1128px;
-  wight: 100%;
-  flex-shrink: 0;
-}
-
-.icon-icon-feature {
+display: flex;
+gap: 24px;
+max-width: 1128px;
+wight: 100%;
+flex-shrink: 0;
 }
 
 .feature-subtitle {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
 }
 
 .feature-item-title {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
 }
 
 /* section-3 Our Team*/
