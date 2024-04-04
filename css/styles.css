@@ -128,7 +128,7 @@ img {
 position: relative;
 color: #404bbf; 
 transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-  }
+}
 
 .item-studio::after {
 content: "";
@@ -139,7 +139,6 @@ bottom: -1px;
 height: 4px;
 background-color: #404bbf; 
 border-radius: 2px; 
-transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
   }
 
 .header-address-item {
@@ -157,14 +156,12 @@ transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 
 .address-one,
 .address-two {
-  transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .address-two {
 display: flex;
 margin-right: 0;
-
-transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 /* main */
