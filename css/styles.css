@@ -425,11 +425,11 @@ overflow: hidden;
 
 .portfolio-names:hover,
 .portfolio-names:focus {
-transform: translateY(100%);
+transform: translateY(0%);
 }
 
 .photo-text:hover {
-transform: translateY(0%);
+transform: translateY(100%);
 }
 
 .photo-text {
