@@ -221,6 +221,7 @@ background-image: linear-gradient(rgba(46, 47, 66, 0.7),
 
 /* section-2 */
 .feature {
+  display: flex;
   padding: 120px 0;
 }
 
