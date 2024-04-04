@@ -219,6 +219,8 @@ background-image: linear-gradient(rgba(46, 47, 66, 0.7),
 
 /* section-2 */
 .feature {
+  display: block;
+  
   padding: 120px 0;
 }
 
@@ -518,10 +520,6 @@ margin-right: 120px;
   letter-spacing: 0.02em;
   color: #f4f4fd;
   width: 264px;
-}
-
-.footer-container-two {
-
 }
 
 .social-mane {
