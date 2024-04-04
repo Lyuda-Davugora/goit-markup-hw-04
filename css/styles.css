@@ -464,7 +464,9 @@ line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2e2f42;
 
-margin-bottom: 8px;
+margin-top: 32px;
+margin-bottom: 64px;
+margin-left: 16px;
 }
 
 .portfolio-work {
@@ -473,6 +475,10 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
+
+margin-top: 64px;
+margin-bottom: 32px;
+margin-left: 16px;
 }
 
 .potfolio-border {
