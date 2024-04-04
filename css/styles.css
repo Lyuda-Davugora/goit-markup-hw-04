@@ -538,13 +538,12 @@ margin-bottom: 16px;
 
 .icon-list {
   display: flex;
-    gap: 24px;
+  gap: 16px;
 }
 
 .icon-item {
   width: 40px;
   height: 40px;
-  gap: 16px;
 }
 
 .icon-link {
