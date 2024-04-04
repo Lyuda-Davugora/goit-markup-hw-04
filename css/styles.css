@@ -67,7 +67,6 @@ img {
 .header-menu {
   display: flex;
   align-items: center;
-
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -170,7 +169,6 @@ transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
   max-width: 1440px; 
   padding: 188px 0;
   background: #2e2f42;
-
 background-image: linear-gradient(rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)),
     url(../images/people-office-1.jpg);
@@ -186,7 +184,6 @@ background-image: linear-gradient(rgba(46, 47, 66, 0.7),
   line-height: 1.07;
   letter-spacing: 0.02em;
   color: #fff;
-
   margin: 0 auto 48px;
   max-width: 496px;
 }
@@ -200,16 +197,13 @@ background-image: linear-gradient(rgba(46, 47, 66, 0.7),
   color: #fff;
   cursor: pointer;
   background: #4d5ae5;
-
   min-width: 169px;
   height: 56px;
   border: none;
   border-radius: 4px;
   cursor: pointer;
-
   margin: 0 auto;
-
-   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1); 
+ transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1); 
 }
 
 .page-button:hover,
@@ -232,10 +226,8 @@ align-items: center;
 justify-content: center;
 height: 112px;
 margin-bottom: 8px;
-  
 border-radius: 4px;
-border: 1px solid #8e8f99; 
-  
+border: 1px solid #8e8f99;   
 background-color: #f4f4fd;  
 }
 
@@ -246,7 +238,6 @@ background-color: #f4f4fd;
   margin: -1px;
   border: 0;
   padding: 0;
-
   white-space: nowrap;
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
@@ -282,7 +273,6 @@ color: #434455;
 .team {
   display: flex;
   padding: 120px 0 120px 0;
-
   background: #f4f4fd;
 }
 
@@ -295,9 +285,7 @@ color: #434455;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
-
   margin-bottom: 72px;
-
 box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 
@@ -324,22 +312,18 @@ box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.1
   margin-right: 0;
 }
 
-.team-page-photo {}
-
 .team-page-name {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
-
   text-align: center;
   margin-bottom: 8px;
 }
 
 .team-page-work {
   text-align: center;
-
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -367,7 +351,6 @@ transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
   display: flex;
 align-items: center;
 justify-content: center; 
-  
   gap: 24px;
 }
 
@@ -499,7 +482,6 @@ text-align: left;
 justify-content: flex-start;
 flex-direction: row;
 gap: 16px;
-
 font-family: "Raleway", sans-serif;
 font-weight: 700;
 font-size: 18px;
@@ -525,12 +507,10 @@ color: #4d5ae5;
 .social-mane {
 font-weight: 500;
 font-size: 16px;
-
 line-height: 24px; 
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #FFFFFF;
-  
 margin-bottom: 16px; 
 }
 
