@@ -254,7 +254,7 @@ background-color: #f4f4fd;
 }
 
 .feature-list {
-display: block;
+display: flex;
 gap: 24px;
 max-width: 1128px;
 wight: 100%;
