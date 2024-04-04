@@ -443,7 +443,7 @@ background-color: #4d5ae5;
 color: #f4f4fd;
 }
 
-.portfolio-photo:hover .photo-text {
+.portfolio-photo:hover, .photo-text {
 transform: translateY(0%);
 }
 
