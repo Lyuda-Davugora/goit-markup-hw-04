@@ -219,8 +219,6 @@ background-image: linear-gradient(rgba(46, 47, 66, 0.7),
 
 /* section-2 */
 .feature {
-  display: block;
-  
   padding: 120px 0;
 }
 
@@ -256,7 +254,7 @@ background-color: #f4f4fd;
 }
 
 .feature-list {
-display: flex;
+display: block;
 gap: 24px;
 max-width: 1128px;
 wight: 100%;
