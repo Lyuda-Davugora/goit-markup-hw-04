@@ -424,7 +424,6 @@ overflow: hidden;
 }
 
 .portfolio-photo {
-transform: translateY(0%);
 }
 
 .portfolio-photo:hover {
