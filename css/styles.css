@@ -424,6 +424,11 @@ overflow: hidden;
 transform: translateY(0%);
 }
 
+.photo-text:hover,
+.photo-text:focus {
+transform: translateY(100%);
+}
+
 .photo-text {
 position: absolute;
 top: 0;
