@@ -404,10 +404,6 @@ width: 100%;
 .portfolio-names {
 position: relative;
 overflow: hidden; 
-border: 1px solid #e7e9fc;
-border-top: none;
-width: 360px;
-height: 300px; 
 }
 
 .portfolio-page:hover 
