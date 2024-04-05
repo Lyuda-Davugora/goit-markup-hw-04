@@ -405,7 +405,7 @@ border: 1px solid #e7e9fc;
 border-top: none;
 }
 
-.portfolio-photo:hover, 
+.portfolio-page:hover 
 .photo-text {
 transform: translateY(0%);
 }
