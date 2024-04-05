@@ -381,8 +381,10 @@ fill: #f4f4fd;
 }
 
 .portfolio-list {
-  display: flex;
-  gap: 24px;
+display: flex;
+flex-wrap: wrap;
+column-gap: 24px;
+row-gap: 48px;
 }
 
 .portfolio-page {
