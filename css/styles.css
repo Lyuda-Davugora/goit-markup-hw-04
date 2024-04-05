@@ -400,6 +400,8 @@ overflow: hidden;
 display: flex;
 border: 1px solid #e7e9fc;
 border-top: none;
+height: 100%;
+width: 100%;
 }
 
 .portfolio-page:hover 
@@ -408,8 +410,6 @@ transform: translateY(0%);
 }
 
 .photo-text {
-height: 100%;
-width: 100%;
 display: flex;
 align-items: center;
 position: absolute;
