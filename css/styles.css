@@ -440,7 +440,6 @@ letter-spacing: 0.02em;
 color: #2e2f42;
 padding-bottom: 8px;
  padding-top: 32px;
-padding-left: 16px;
 }
 
 .portfolio-work {
@@ -451,8 +450,6 @@ letter-spacing: 0.02em;
 color: #434455;
 height: 100%;
 width: 100%;
-padding-top: 32px;
-padding-left: 16px;
 }
 
 .potfolio-border {
